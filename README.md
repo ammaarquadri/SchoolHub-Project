@@ -359,3 +359,32 @@ python build_handbook.py
 **SchoolHub** · [Live demo](https://schoolhub-demo.netlify.app) · [Handbook](Documentation/SchoolHub_Project_Handbook.pdf) · [WhatsApp technical report](Documentation/SchoolHub_WhatsApp_Technical_Findings.pdf)
 
 </div>
+
+---
+
+## Copyright & Usage
+
+© 2026 Ammaar Quadri. All Rights Reserved.
+
+This project is publicly available for portfolio presentation, demonstration, and educational viewing.
+
+The source code is proprietary. You may view the repository, but you may not copy, reproduce, redistribute, modify, commercially exploit, or create derivative works from this project without prior written permission from the copyright owner.
+
+For permission or collaboration enquiries, please contact the author.
+
+## Project Scope & Limitations
+
+This project is a demonstration-level School Management System developed to showcase full-stack web development skills.
+
+Current scope:
+- Student, teacher, and class management.
+- Attendance management.
+- Dashboard and summary information.
+- Netlify-based deployment and storage.
+
+This version does not include:
+- WhatsApp notification integration.
+- User login or signup authentication.
+- A dedicated PostgreSQL or MySQL database.
+
+The project is intended for demonstration and portfolio purposes, not as a fully secured production-ready school management platform.
