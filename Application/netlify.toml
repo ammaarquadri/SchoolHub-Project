@@ -1,0 +1,13 @@
+[build]
+  # No build step: the frontend is plain HTML/CSS/JS.
+  publish = "public"
+  functions = "netlify/functions"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+[functions]
+  node_bundler = "esbuild"
+
+# The API function declares its own route (/api/*) in api.js,
+# so no redirect rules are needed here.

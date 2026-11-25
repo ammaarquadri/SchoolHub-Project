@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Netlify local data
+.netlify/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor settings
+.vscode/

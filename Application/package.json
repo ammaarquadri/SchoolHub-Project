@@ -1,0 +1,16 @@
+{
+  "name": "schoolhub",
+  "version": "1.0.0",
+  "description": "SchoolHub - a small demo school management system for Netlify",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
